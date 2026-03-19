@@ -45,8 +45,8 @@ Ideal para investigadores, estudiantes, desarrolladores… o cualquier persona c
 * **Flet** (framework para apps UI en Python)
 
 
-
-
+## Ejemplo
+![Descripción de la imagen](imgMuestra.png)
 
 ## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Si tenés ideas o mejoras, abrí un issue o mandá un pull request.
